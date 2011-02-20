@@ -1,3 +1,5 @@
+added new line here too
+
 <cfset var="Hello World" />
 
 <cfoutput>#var#</cfoutput>
