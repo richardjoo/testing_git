@@ -3,6 +3,7 @@ void main () {
 		int test2 = 2;
 		
 		float a = 1.234;
+		char* string[] = 'Hello World';
 
-		printf("result = " + test + test2);
+		cout << string;
 }
