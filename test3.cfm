@@ -1,3 +1,7 @@
+/*
+	Comment section added
+*/
+
 void main () {
 		int test = 1;
 		int test2 = 2;
@@ -7,3 +11,7 @@ void main () {
 
 		cout << string;
 }
+
+/* commend section added here as well */
+
+
